@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import com.sun.jna.platform.FileUtils;
 
-public class SampleGitTest {
+public class SampleGitTest2 {
 
 	@Test
 	public void logintest() throws IOException, InterruptedException
